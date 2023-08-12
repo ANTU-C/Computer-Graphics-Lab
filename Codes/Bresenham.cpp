@@ -26,7 +26,7 @@ void display(void)
             x = x + 1;
             y = y;
         }
-        else if(p>0)
+        else
         {
             p=p+2*(dy-dx);
             x = x+1;
